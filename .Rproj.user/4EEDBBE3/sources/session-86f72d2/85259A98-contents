@@ -1,0 +1,53 @@
+---
+title: "Know Me More.!"
+format: html
+editor: visual
+---
+
+---
+
+# 🎓 EDUCATION
+
+<i>**Master of Science in Data Analytics Engineering**</i>\
+George Mason University\
+*Jan 2024 – Dec 2025*
+
+<i>**Bachelor of Engineering in Computer Science Engineering**</i>\
+Stanley College of Engineering, India\
+*Jun 2018 – Jul 2022*
+
+---
+
+# 💼 EXPERIENCE
+
+<span style= "font-style:italic;font-weight:bold"> Data Analyst – Merilytics, India </span>
+
+<i>Jul 2022 – Dec 2023</i>
+
+-   Improved data quality, modeling, and reporting accuracy across cross-functional projects.
+
+-   Optimized 50+ SQL queries in SSMS, improving data retrieval speed by 35%.
+
+-   Designed and deployed ETL pipelines using Azure Data Factory.
+
+-   Built 10+ dashboards in Power BI and Tableau for marketing, finance, and operations.
+
+<span style= "font-style:italic;font-weight:bold"> Data Science Intern – SmartInternz, India </span>
+
+<i>Jan 2022 – May 2022</i>
+
+-   Developed predictive models for telecom churn with 89% accuracy.
+
+-   Cleaned and modeled datasets with 500K+ records using Pandas and NumPy.
+
+-   Applied feature engineering and hyperparameter tuning.
+
+-   Delivered reusable predictive analytics framework with Python visualizations.
+
+---
+
+# 🏅 CERTIFICATIONS
+
+-   AWS Academy Cloud Foundations
+
+-   AWS Certified Cloud Practitioner

@@ -1,0 +1,90 @@
+/* Reset default margin */
+body {
+  margin: 0;
+  padding: 0;
+
+  background-size: cover;
+  background-position: left;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  font-family: 'Segoe UI', sans-serif;
+  color: black;
+  text-align: left;
+}
+/* Blurred background overlay */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url("bg2.png");
+  background-size: cover;
+  background-position: left;
+  background-repeat: no-repeat;
+  filter: blur(5px);         /* Amount of blur */
+  z-index: -1;               /* Send it behind content */
+}
+
+/* Top Profile Image & Name */
+.top-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+}
+.top-profile img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+.top-name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 0.5rem;
+}
+
+/* Centered Navbar Links */
+.navbar-nav {
+  margin: 0 auto;
+  justify-content: center;
+}
+.navbar .nav-link {
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+}
+
+/* Footer Styling */
+.footer {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  font-size: 14px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: 4rem;
+}
+.footer a {
+  color: #00bfff;
+  text-decoration: none;
+}
+.footer a:hover {
+  text-decoration: underline;
+}
+
+main.content,
+.page-columns .content {
+  padding-left: 1in; /* 1 inch from the left */
+  padding-right: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background: transparent;
+  box-shadow: none;
+  text-align: left;
+}
+

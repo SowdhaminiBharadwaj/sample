@@ -1,0 +1,39 @@
+---
+title: ""
+format:
+  html:
+    title-block: false
+    anchor-sections: false
+editor: visual
+---
+
+# 💼 PROJECTS
+
+---
+
+## 📘 Student Academic Performance
+
+-   **Tools**: Python, SQL, R, AWS S3
+-   Analyzed 395+ student academic records to uncover key performance drivers.
+-   Conducted survey redundancy checks to enhance data quality and survey efficiency.
+-   Developed dashboards and Excel-based reports with actionable insights for educators and policy advisors.
+
+## ✈️ Airline Passenger Satisfaction
+
+-   **Tools**: Apache Spark MLlib, Databricks, MongoDB, PySpark
+-   Built machine learning models to predict passenger satisfaction.
+-   Used distributed computing to handle large-scale data processing.
+-   Achieved **92% accuracy** using Gradient Boosted Trees.
+
+## 🎬 Movie Recommendation System
+
+-   **Tools**: Python (Scikit-learn, Pandas, NumPy)
+-   Compared KNN and collaborative filtering techniques using the MovieLens dataset.
+-   Demonstrated that **collaborative filtering improved accuracy by 18%** and reduced runtime.
+-   Visualized outcomes to support algorithm selection based on performance.
+
+## 📡 Telecom Churn Prediction (Internship)
+
+-   **Tools**: Python, Scikit-learn, Pandas
+-   Processed over 500K customer records.
+-   Developed churn models with 89% accuracy.

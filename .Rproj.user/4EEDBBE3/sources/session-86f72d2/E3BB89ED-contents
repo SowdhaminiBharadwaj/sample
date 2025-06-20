@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "<i>Crafting stories from structured and unstructured data.<i>"
+  navbar:
+    pinned: true
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: flatly
+    css: 
+      - style.css
+    toc: false
+    include-before-body: side.html
+    include-after-body: footer.html
+
+editor: visual

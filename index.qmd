@@ -1,0 +1,51 @@
+---
+title: "WELCOME!"
+format: html
+editor: visual
+---
+
+## <i>Hi, I'm Sowdhamini Bharadwaj</i>
+
+![](pic.png){fig-align="center" width="350"}
+
+::: {style="color: black; font-size: 18px; line-height: 1.6;"}
+::: {style="text-align: left;"}
+<p><i>Data Analyst with 2+ years of experience and a Master’s student in Data Analytics Engineering at George Mason University. Proficient in SQL,
+Python, Power BI, and Tableau for ETL pipelines, data visualization, and database management. Skilled in transforming complex data into
+actionable insights to drive business growth and decision-making. </i></p>
+
+<div style="color: black; font-size: 17px; font-family: 'Calibri', sans-serif;">
+
+<p><i><b> I specialize in: </b></i></p>
+
+<ul>
+
+<li> 📈 Data Analysis & Visualization (Power BI, Tableau, Matplotlib, Seaborn)</li>
+
+<li> 🧹 Data Cleaning, Statistical Analysis, EDA, and Feature Engineering </li>
+
+<li> 🧠 Machine Learning, Deep Learning, and NLP using Scikit-learn </li>
+
+<li> ⚙️ ETL Pipelines & Data Integration with Azure Data Factory & AWS Glue </li>
+
+<li> 🗄️ Database Management (MySQL, SQL Server, MongoDB) </li>
+
+<li> 💻 Programming in Python, SQL, and R </li>
+
+</ul>
+
+</div>
+
+<p>📄 <a href="Sowdhamini_Resume.pdf" target="_blank" style="color: blue;">View My Resume</a></p>
+:::
+:::
+
+------------------------------------------------------------------------
+
+## 🔍 What I Do
+
+-   📈 Analyze structured and unstructured data to extract actionable business insights.
+-   📊 Build interactive dashboards using Tableau and Power BI for reporting.
+-   🧠 Develop and evaluate ML models with Scikit-learn for classification and prediction tasks.
+-   ⚙️ Design and automate ETL pipelines using Azure Data Factory and AWS Glue.
+-   🗃️ Work with SQL and NoSQL databases for querying and managing data.

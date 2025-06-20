@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "📬Contact",
+    "section": "",
+    "text": "Name \nEmail \nSubject \nMessage\n\n\n\nSend\n\n\n\n\n🔗 Connect with me on  :  Sowdhamini Bharadwaj"
+  },
+  {
+    "objectID": "contact.html#contact-me",
+    "href": "contact.html#contact-me",
+    "title": "📬Contact",
+    "section": "📬 Contact Me",
+    "text": "📬 Contact Me\n- 📧 Email: sowdhaminibharadwaj6@gmail.com\n- 📍 Location: Fairfax, VA\n- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "💼 PROJECTS",
+    "section": "",
+    "text": "Tools: Python, SQL, R, AWS S3\nAnalyzed 395+ student academic records to uncover key performance drivers.\nConducted survey redundancy checks to enhance data quality and survey efficiency.\nDeveloped dashboards and Excel-based reports with actionable insights for educators and policy advisors.\n\n\n\n\n\nTools: Apache Spark MLlib, Databricks, MongoDB, PySpark\nBuilt machine learning models to predict passenger satisfaction.\nUsed distributed computing to handle large-scale data processing.\nAchieved 92% accuracy using Gradient Boosted Trees.\n\n\n\n\n\nTools: Python (Scikit-learn, Pandas, NumPy)\nCompared KNN and collaborative filtering techniques using the MovieLens dataset.\nDemonstrated that collaborative filtering improved accuracy by 18% and reduced runtime.\nVisualized outcomes to support algorithm selection based on performance.\n\n\n\n\n\nTools: Python, Scikit-learn, Pandas\nProcessed over 500K customer records.\nDeveloped churn models with 89% accuracy."
+  },
+  {
+    "objectID": "projects.html#student-academic-performance",
+    "href": "projects.html#student-academic-performance",
+    "title": "💼 PROJECTS",
+    "section": "",
+    "text": "Tools: Python, SQL, R, AWS S3\nAnalyzed 395+ student academic records to uncover key performance drivers.\nConducted survey redundancy checks to enhance data quality and survey efficiency.\nDeveloped dashboards and Excel-based reports with actionable insights for educators and policy advisors."
+  },
+  {
+    "objectID": "projects.html#airline-passenger-satisfaction",
+    "href": "projects.html#airline-passenger-satisfaction",
+    "title": "💼 PROJECTS",
+    "section": "",
+    "text": "Tools: Apache Spark MLlib, Databricks, MongoDB, PySpark\nBuilt machine learning models to predict passenger satisfaction.\nUsed distributed computing to handle large-scale data processing.\nAchieved 92% accuracy using Gradient Boosted Trees."
+  },
+  {
+    "objectID": "projects.html#movie-recommendation-system",
+    "href": "projects.html#movie-recommendation-system",
+    "title": "💼 PROJECTS",
+    "section": "",
+    "text": "Tools: Python (Scikit-learn, Pandas, NumPy)\nCompared KNN and collaborative filtering techniques using the MovieLens dataset.\nDemonstrated that collaborative filtering improved accuracy by 18% and reduced runtime.\nVisualized outcomes to support algorithm selection based on performance."
+  },
+  {
+    "objectID": "projects.html#telecom-churn-prediction-internship",
+    "href": "projects.html#telecom-churn-prediction-internship",
+    "title": "💼 PROJECTS",
+    "section": "",
+    "text": "Tools: Python, Scikit-learn, Pandas\nProcessed over 500K customer records.\nDeveloped churn models with 89% accuracy."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Know Me More.!",
+    "section": "",
+    "text": "🎓 EDUCATION\nMaster of Science in Data Analytics Engineering\nGeorge Mason University\nJan 2024 – Dec 2025\nBachelor of Engineering in Computer Science Engineering\nStanley College of Engineering, India\nJun 2018 – Jul 2022\n\n\n\n💼 EXPERIENCE\n Data Analyst – Merilytics, India \nJul 2022 – Dec 2023\n\nImproved data quality, modeling, and reporting accuracy across cross-functional projects.\nOptimized 50+ SQL queries in SSMS, improving data retrieval speed by 35%.\nDesigned and deployed ETL pipelines using Azure Data Factory.\nBuilt 10+ dashboards in Power BI and Tableau for marketing, finance, and operations.\n\n Data Science Intern – SmartInternz, India \nJan 2022 – May 2022\n\nDeveloped predictive models for telecom churn with 89% accuracy.\nCleaned and modeled datasets with 500K+ records using Pandas and NumPy.\nApplied feature engineering and hyperparameter tuning.\nDelivered reusable predictive analytics framework with Python visualizations.\n\n\n\n\n🏅 CERTIFICATIONS\n\nAWS Academy Cloud Foundations\nAWS Certified Cloud Practitioner"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "WELCOME!",
+    "section": "",
+    "text": "Data Analyst with 2+ years of experience and a Master’s student in Data Analytics Engineering at George Mason University. Proficient in SQL, Python, Power BI, and Tableau for ETL pipelines, data visualization, and database management. Skilled in transforming complex data into actionable insights to drive business growth and decision-making. \n\n\n\n I specialize in: \n\n\n\n📈 Data Analysis & Visualization (Power BI, Tableau, Matplotlib, Seaborn)\n\n\n🧹 Data Cleaning, Statistical Analysis, EDA, and Feature Engineering\n\n\n🧠 Machine Learning, Deep Learning, and NLP using Scikit-learn\n\n\n⚙️ ETL Pipelines & Data Integration with Azure Data Factory & AWS Glue\n\n\n🗄️ Database Management (MySQL, SQL Server, MongoDB)\n\n\n💻 Programming in Python, SQL, and R\n\n\n\n\n📄 View My Resume"
+  },
+  {
+    "objectID": "index.html#hi-im-sowdhamini-bharadwaj",
+    "href": "index.html#hi-im-sowdhamini-bharadwaj",
+    "title": "WELCOME!",
+    "section": "",
+    "text": "Data Analyst with 2+ years of experience and a Master’s student in Data Analytics Engineering at George Mason University. Proficient in SQL, Python, Power BI, and Tableau for ETL pipelines, data visualization, and database management. Skilled in transforming complex data into actionable insights to drive business growth and decision-making. \n\n\n\n I specialize in: \n\n\n\n📈 Data Analysis & Visualization (Power BI, Tableau, Matplotlib, Seaborn)\n\n\n🧹 Data Cleaning, Statistical Analysis, EDA, and Feature Engineering\n\n\n🧠 Machine Learning, Deep Learning, and NLP using Scikit-learn\n\n\n⚙️ ETL Pipelines & Data Integration with Azure Data Factory & AWS Glue\n\n\n🗄️ Database Management (MySQL, SQL Server, MongoDB)\n\n\n💻 Programming in Python, SQL, and R\n\n\n\n\n📄 View My Resume"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "WELCOME!",
+    "section": "🔍 What I Do",
+    "text": "🔍 What I Do\n\n📈 Analyze structured and unstructured data to extract actionable business insights.\n📊 Build interactive dashboards using Tableau and Power BI for reporting.\n🧠 Develop and evaluate ML models with Scikit-learn for classification and prediction tasks.\n⚙️ Design and automate ETL pipelines using Azure Data Factory and AWS Glue.\n🗃️ Work with SQL and NoSQL databases for querying and managing data."
+  },
+  {
+    "objectID": "contact.html#send-me-a-message",
+    "href": "contact.html#send-me-a-message",
+    "title": "📬Contact",
+    "section": "",
+    "text": "Name \nEmail \nSubject \nMessage\n\n\n\nSend\n\n\n\n\n🔗 Connect with me on  :  Sowdhamini Bharadwaj"
+  }
+]
